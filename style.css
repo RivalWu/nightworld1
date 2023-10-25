@@ -44,7 +44,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-.tombol1, .tombol2, .tombol3 {
+.tombol1, .tombol2, .tombol3, .join {
     font-size: 1rem;
     font-weight: 800;
     padding: 0.5em 1em;
@@ -59,7 +59,7 @@ nav ul li a {
     transition: all 0.3s;
 }
   
-.tombol1:hover, .tombol2:hover, .tombol3:hover {
+.tombol1:hover, .tombol2:hover, .tombol3:hover, .join:hover {
     transform: translateY(10px);
     background-color: white;
     color: black;
